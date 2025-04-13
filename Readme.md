@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Pyae 👋
 
 Welcome to my GitHub profile! Here's a little about me:
 
@@ -7,9 +7,10 @@ Welcome to my GitHub profile! Here's a little about me:
 - 📫 How to reach me: pyaesoneaung1126@hotmail.com
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: **[List Languages]**
-- Frameworks & Libraries: **[List Frameworks]**
-- Tools: **[List Tools]**
+
+- Programming Languages: **Python, TypeScript, Go**
+- Frameworks & Libraries: **React, NodeJs, NextJs, FastApi, OpenAI LLM, OpenAI SDK**
+- Tools: **Git, Docker, Vim, VS Code**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoiZs&count_private=true&layout=compact&theme=radical)
 
